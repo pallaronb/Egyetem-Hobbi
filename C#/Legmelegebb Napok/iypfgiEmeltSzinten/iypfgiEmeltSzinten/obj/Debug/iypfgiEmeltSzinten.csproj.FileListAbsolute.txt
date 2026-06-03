@@ -1,0 +1,15 @@
+C:\Users\palla\Desktop\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\bin\Debug\iypfgiEmeltSzinten.exe.config
+C:\Users\palla\Desktop\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\bin\Debug\iypfgiEmeltSzinten.exe
+C:\Users\palla\Desktop\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\bin\Debug\iypfgiEmeltSzinten.pdb
+C:\Users\palla\Desktop\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\obj\Debug\iypfgiEmeltSzinten.csproj.AssemblyReference.cache
+C:\Users\palla\Desktop\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\obj\Debug\iypfgiEmeltSzinten.csproj.SuggestedBindingRedirects.cache
+C:\Users\palla\Desktop\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\obj\Debug\iypfgiEmeltSzinten.csproj.CoreCompileInputs.cache
+C:\Users\palla\Desktop\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\obj\Debug\iypfgiEmeltSzinten.exe
+C:\Users\palla\Desktop\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\obj\Debug\iypfgiEmeltSzinten.pdb
+C:\Users\palla\Desktop\Egyetem\1. Félév\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\bin\Debug\iypfgiEmeltSzinten.exe.config
+C:\Users\palla\Desktop\Egyetem\1. Félév\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\bin\Debug\iypfgiEmeltSzinten.exe
+C:\Users\palla\Desktop\Egyetem\1. Félév\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\bin\Debug\iypfgiEmeltSzinten.pdb
+C:\Users\palla\Desktop\Egyetem\1. Félév\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\obj\Debug\iypfgiEmeltSzinten.csproj.AssemblyReference.cache
+C:\Users\palla\Desktop\Egyetem\1. Félév\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\obj\Debug\iypfgiEmeltSzinten.csproj.CoreCompileInputs.cache
+C:\Users\palla\Desktop\Egyetem\1. Félév\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\obj\Debug\iypfgiEmeltSzinten.exe
+C:\Users\palla\Desktop\Egyetem\1. Félév\Programozás\Komplex Beadandók\1.KomplexBeadandó\iypfgiEmeltSzinten\iypfgiEmeltSzinten\obj\Debug\iypfgiEmeltSzinten.pdb
