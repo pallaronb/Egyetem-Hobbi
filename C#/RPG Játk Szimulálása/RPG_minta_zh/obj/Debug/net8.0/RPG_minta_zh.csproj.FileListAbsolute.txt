@@ -1,0 +1,14 @@
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\bin\Debug\net8.0\RPG_minta_zh.exe
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\bin\Debug\net8.0\RPG_minta_zh.deps.json
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\bin\Debug\net8.0\RPG_minta_zh.runtimeconfig.json
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\bin\Debug\net8.0\RPG_minta_zh.dll
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\bin\Debug\net8.0\RPG_minta_zh.pdb
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\obj\Debug\net8.0\RPG_minta_zh.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\obj\Debug\net8.0\RPG_minta_zh.AssemblyInfoInputs.cache
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\obj\Debug\net8.0\RPG_minta_zh.AssemblyInfo.cs
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\obj\Debug\net8.0\RPG_minta_zh.csproj.CoreCompileInputs.cache
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\obj\Debug\net8.0\RPG_minta_zh.dll
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\obj\Debug\net8.0\refint\RPG_minta_zh.dll
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\obj\Debug\net8.0\RPG_minta_zh.pdb
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\obj\Debug\net8.0\RPG_minta_zh.genruntimeconfig.cache
+C:\Users\palla\Desktop\Egyetem\2. Félév\OEP\RPG_minta_zh\RPG_minta_zh\obj\Debug\net8.0\ref\RPG_minta_zh.dll
