@@ -1,0 +1,1189 @@
+[33mcommit 39774a446ce605cd96274774309f0b2acbd7a1e3[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 0f37425 48ef5f8
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Sun May 3 15:36:36 2026 +0000
+
+    Merge branch 'Forests' into 'master'
+    
+    Erdők terjedése pipa, valamint megváltoztattam a map méretét, hogy jobban látszódjon minden
+    
+    See merge request szofttech-c-2026/group-07/aad!26
+
+[33mcommit 48ef5f885dfc21f7bd24929e202440d0d9b91a61[m
+Author: Áron Páll <iypfgi@inf.elte.hu>
+Date:   Wed Apr 29 14:47:50 2026 +0200
+
+    Erdőterjedés megjavítása
+
+[33mcommit 1cc5976ceb4da18e7ec3f08d6b23c2eff5d2bf8f[m[33m ([m[1;31morigin/Forests[m[33m, [m[1;32mForests[m[33m)[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 29 11:50:09 2026 +0200
+
+    Erdők terjedése pipa, valamint megváltoztattam a map méretét, hogy jobban látszódjon minden
+
+[33mcommit 0f374253bb92dd6e310a1f9b0ef6fd3ea1f4a7ce[m[33m ([m[1;32mCI[m[33m)[m
+Merge: 18b14bd 53b2b81
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 29 08:48:17 2026 +0000
+
+    Merge branch 'continuous_moving' into 'master'
+    
+    Járművek folyamatos mozgása
+    
+    See merge request szofttech-c-2026/group-07/aad!25
+
+[33mcommit 53b2b819a1668885da06f5daf96e69a7953c713a[m
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Wed Apr 29 00:55:35 2026 +0200
+
+    Járművek folyamatos mozgása
+
+[33mcommit 18b14bd8756c926f1a8825bf0e289886e7dd9251[m
+Merge: 21fbbbb 0a024a8
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Wed Apr 22 13:47:43 2026 +0000
+
+    Merge branch 'CI_coverage' into 'master'
+    
+    coverage megjelenítése
+    
+    See merge request szofttech-c-2026/group-07/aad!24
+
+[33mcommit 0a024a8d2d375146e7bf51aaeec8cac54cf413ca[m
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Wed Apr 22 15:46:13 2026 +0200
+
+    coverage megjelenítése
+
+[33mcommit 21fbbbb7ae95b8e83067fda517586cf16c64ae46[m
+Merge: 2f606c4 33ca73d
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 13:37:43 2026 +0000
+
+    Merge branch 'CI_coverage' into 'master'
+    
+    coverage megjelenítése
+    
+    See merge request szofttech-c-2026/group-07/aad!23
+
+[33mcommit 33ca73dba8adeddfd3995751101cc4e47c8fb493[m
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Wed Apr 22 15:30:50 2026 +0200
+
+    coverage megjelenítése
+
+[33mcommit 2f606c4456e60ac0971c708aa5fb51a7270e8e1e[m
+Merge: 135ec7b 27ce392
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 13:28:48 2026 +0000
+
+    Merge branch 'CI' into 'master'
+    
+    CI update
+    
+    See merge request szofttech-c-2026/group-07/aad!22
+
+[33mcommit 27ce392e8b509867e29c56f993eaca91d52b9963[m
+Merge: 87b656a 135ec7b
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 13:27:35 2026 +0000
+
+    Merge branch 'master' into 'CI'
+    
+    # Conflicts:
+    #   target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+
+[33mcommit 87b656a2bb902e8738b9b4a5c7215bb0b709b4b1[m
+Author: Áron Páll <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 15:22:55 2026 +0200
+
+    CI update
+
+[33mcommit 135ec7b9082cbda2cbdfe3f6b5974a771dd66f01[m
+Merge: d89548f 9336f02
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Wed Apr 22 13:16:22 2026 +0000
+
+    Merge branch 'mapgenerate_update' into 'master'
+    
+    Map generálás frissítése
+    
+    See merge request szofttech-c-2026/group-07/aad!21
+
+[33mcommit 9336f021b2cafcc74ded58ea05795f4e7b892245[m
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Wed Apr 22 15:05:28 2026 +0200
+
+    Map generálás frissítése
+
+[33mcommit d89548f71a112d9528f89ce47db6616f5a2b013f[m
+Merge: 7d19ab1 f506de5
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 09:50:03 2026 +0000
+
+    Merge branch 'CI' into 'master'
+    
+    Ci
+    
+    See merge request szofttech-c-2026/group-07/aad!20
+
+[33mcommit f506de54b642409bc06bf8b90fd2e1f00e5b878e[m[33m ([m[1;31morigin/CI[m[33m)[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:46:43 2026 +0200
+
+    CI update
+
+[33mcommit 8233bc99245e5b31c2d39a4cdfc385676eda4017[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:46:41 2026 +0200
+
+    CI update
+
+[33mcommit 7d19ab1cc75f506f032256b38a8f8f53f2ad9e92[m
+Merge: 515ab8e 586c615
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 09:44:13 2026 +0000
+
+    Merge branch 'CI' into 'master'
+    
+    CI update
+    
+    See merge request szofttech-c-2026/group-07/aad!19
+
+[33mcommit 586c6154645383c6286acfdb820214bc51e10643[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:43:05 2026 +0200
+
+    CI update
+
+[33mcommit 515ab8e0d9c000e8d3da7b8d734ff3b5e8597032[m
+Merge: 08b3f3b 194ed03
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 09:39:10 2026 +0000
+
+    Merge branch 'CI' into 'master'
+    
+    CI update
+    
+    See merge request szofttech-c-2026/group-07/aad!18
+
+[33mcommit 194ed037e97f1ac4c781be9c8c272db463bfc2d1[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:37:56 2026 +0200
+
+    CI update
+
+[33mcommit 9899a0be03d4bf33f6ce92d1860175b6522406c2[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:35:21 2026 +0200
+
+    CI update
+
+[33mcommit e12945c626721748f90bb72346646c5ed36f60e8[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:31:42 2026 +0200
+
+    CI update
+
+[33mcommit 08b3f3b5af6890a97d8ba4887b9184b0069f71c0[m
+Merge: 5606ee0 648f381
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 09:18:13 2026 +0000
+
+    Merge branch 'CI' into 'master'
+    
+    New tests
+    
+    See merge request szofttech-c-2026/group-07/aad!16
+
+[33mcommit 648f381a24c374708ca649654c4d9c973793ef0a[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:16:45 2026 +0200
+
+    CI update
+
+[33mcommit 3297ac3856a8c0b737decaa9a3b9c8ef6a64da8a[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:10:58 2026 +0200
+
+    CI update
+
+[33mcommit 7ce199b64db6ae579ab11c640666d41c855048a5[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:09:32 2026 +0200
+
+    CI update
+
+[33mcommit 4cca1881dad33c46f015cd0adbb3129b6ce7678f[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:06:46 2026 +0200
+
+    CI update
+
+[33mcommit 180a684e2e848c6f01d6bd541768621b62be1b9b[m
+Merge: 170be67 5606ee0
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:05:13 2026 +0200
+
+    Merge branch 'master' into CI
+
+[33mcommit 170be677c97ecfc5c019190d8b4bae501a9724df[m
+Merge: 79c39fc e5b1e09
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:04:42 2026 +0200
+
+    Ci update
+
+[33mcommit 5606ee06f85df892d78a69a22579cababa454512[m
+Merge: e5b1e09 33d9d6b
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 09:02:36 2026 +0000
+
+    Merge branch 'Debug' into 'master'
+    
+    Debug + timehandling
+    
+    See merge request szofttech-c-2026/group-07/aad!17
+
+[33mcommit 79c39fc59a2114c1fd1792f9acab97ec6675ec9d[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 11:01:56 2026 +0200
+
+    CI updates
+
+[33mcommit 33d9d6babd3a429e9f5e88527ec68996b05b1a2e[m[33m ([m[1;31morigin/Debug[m[33m, [m[1;32mDebug[m[33m)[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 10:50:46 2026 +0200
+
+    Debug + timehandling
+
+[33mcommit e5b1e098398e8c7b396ab66d262f3c02ef6d07f9[m
+Merge: d654f97 c20b7f7
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 08:30:11 2026 +0000
+
+    Merge branch 'Map' into 'master'
+    
+    A map megrajzolása reálisabban, szebben, A buszok mozognak, de egy picit bugosan
+    
+    See merge request szofttech-c-2026/group-07/aad!13
+
+[33mcommit c20b7f7016270ad2ada487b82ce51908814e80a3[m[33m ([m[1;31morigin/Map[m[33m)[m
+Merge: 7594deb d654f97
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 08:26:05 2026 +0000
+
+    Merge branch 'master' into 'Map'
+    
+    # Conflicts:
+    #   src/main/java/citybuilder/GameEngine.java
+    #   src/main/java/citybuilder/vehicles/Vehicle.java
+    #   target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+    #   target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+
+[33mcommit 5f4a84bea4e8ec32df92e45ca6128bb15c92da3b[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 10:15:44 2026 +0200
+
+    New tests
+
+[33mcommit d654f97c0ccbdb86f593dca780a01fe2c288c8f9[m
+Merge: ecb5986 f859f55
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 08:00:44 2026 +0000
+
+    Merge branch 'CI' into 'master'
+    
+    CI test coverage
+    
+    See merge request szofttech-c-2026/group-07/aad!15
+
+[33mcommit f859f554194b3e0ce3af44b99cd27e0da596f5a8[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 09:59:01 2026 +0200
+
+    CI test coverage
+
+[33mcommit ecb598646962cf3ca894e0c23967c326d6451cd9[m
+Merge: 39c4c26 89b7f08
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 22 07:49:17 2026 +0000
+
+    Merge branch 'vehicle_Moving' into 'master'
+    
+    Járművek folyamatos mozgása,
+    
+    See merge request szofttech-c-2026/group-07/aad!14
+
+[33mcommit 89b7f0811463d7e09554f710aff8b51389556cbc[m
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Wed Apr 22 00:59:49 2026 +0200
+
+    Járművek folyamatos mozgása, illetve  aképek beszúrása is frissítésre került(amivel lényegesen felgyorsult a játék és végre megjeleníti a dolgokat is)
+
+[33mcommit 7594deb84096bef6a04aa493afe4dcec85ecde7d[m[33m ([m[1;32mMap[m[33m)[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Tue Apr 21 23:42:26 2026 +0200
+
+    A map megrajzolása reálisabban, szebben, A buszok mozognak, de egy picit bugosan
+
+[33mcommit 39c4c2668c7e0467d91e3687153fdfa161c28920[m
+Merge: 9ad16e9 d66b588
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Tue Apr 21 19:45:58 2026 +0000
+
+    Merge branch 'vehicle_update' into 'master'
+    
+    A megbeszélt frissítés a tiszta kódhoz közelebb kerülés
+    
+    See merge request szofttech-c-2026/group-07/aad!12
+
+[33mcommit d66b5884cf9c4ed0cf28bcd71f5422e99e598ad9[m
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Tue Apr 21 21:33:07 2026 +0200
+
+    A megbeszélt frissítés a tiszta kódhoz közelebb kerülés
+
+[33mcommit 9ad16e9cd4ddf873211e29a91a9a7c7186a5c998[m
+Merge: b31cb1a db61efc
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Tue Apr 21 17:05:34 2026 +0000
+
+    Merge branch 'CI' into 'master'
+    
+    CI, néhány tesztesettel a GameEngine-re ezt lehet majd bővíteni
+    
+    See merge request szofttech-c-2026/group-07/aad!10
+
+[33mcommit db61efc36d774945867e1da9e99dd39eb984600e[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Tue Apr 21 10:46:32 2026 +0200
+
+    CI update
+
+[33mcommit b40ff88381e1f8a8f8113751d22848fbefa097be[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Tue Apr 21 10:43:51 2026 +0200
+
+    CI update
+
+[33mcommit f27340f6c7f630de007d6c1a7848d95caed8ed06[m
+Merge: bf0fb57 b31cb1a
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Tue Apr 21 10:34:21 2026 +0200
+
+    Merge master into CI and fix GameEngine confilcts
+
+[33mcommit b31cb1ad41d8992e81f2493d233327b570fa97da[m
+Merge: 694a546 23fc75d
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Tue Apr 21 08:30:21 2026 +0000
+
+    Merge branch 'route' into 'master'
+    
+    Járművek útvonal építése
+    
+    See merge request szofttech-c-2026/group-07/aad!9
+
+[33mcommit bf0fb5767c035e32b61d78946bdf86fa005c7a9c[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Tue Apr 21 10:26:24 2026 +0200
+
+    CI, néhány tesztesettel a GameEngine-re ezt lehet majd bővíteni
+
+[33mcommit 23fc75da99b39589a97d9b820a193262a859d3a8[m[33m ([m[1;31morigin/route[m[33m)[m
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Tue Apr 21 00:57:52 2026 +0200
+
+    Járművek útvonal építése
+
+[33mcommit 694a546afe7082aeee3846fa2a6431208aa10200[m[33m ([m[1;32mvehicles[m[33m)[m
+Merge: c610ced 02b42f8
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Sun Apr 19 18:40:22 2026 +0000
+
+    Merge branch 'vehicles' into 'master'
+    
+    Járművek lerakása
+    
+    See merge request szofttech-c-2026/group-07/aad!8
+
+[33mcommit 02b42f8fadc847a9ec12269d5ad517db98985aab[m[33m ([m[1;31morigin/vehicles[m[33m)[m
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Sun Apr 19 18:52:26 2026 +0200
+
+    Járművek lerakása + frissítettem azt is hogy levonja újra az árakat
+
+[33mcommit c610ced37f291bc6399f155d2e576b94e4b2e183[m
+Merge: cab463d 9430743
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Sat Apr 18 17:08:01 2026 +0000
+
+    Merge branch 'migrateToMaven' into 'master'
+    
+    A Kódunk nem Mavenben volt, amihez nem tudtam CI-t készíyteni a CI készítése...
+    
+    See merge request szofttech-c-2026/group-07/aad!7
+
+[33mcommit 9430743520af3260eb1b6659130c224027e9a4da[m[33m ([m[1;31morigin/migrateToMaven[m[33m, [m[1;32mmigrateToMaven[m[33m)[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Wed Apr 15 16:35:04 2026 +0200
+
+    A Kódunk nem Mavenben volt, amihez nem tudtam CI-t készíyteni a CI készítése még hátra van, de ez itt a Mavenné migrált kódunk igazából
+
+[33mcommit cab463d2c6b2b06677b20ead13a4d2b6c43cb89d[m
+Merge: ae6da68 0dc7077
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Wed Apr 15 12:46:28 2026 +0000
+
+    Merge branch 'Camera' into 'master'
+    
+    Megcsináltam a kamerát a te mapgenerelásoddal, csak megváltoztattam egy picit,...
+    
+    See merge request szofttech-c-2026/group-07/aad!3
+
+[33mcommit ae6da6848bd05d618a66671990d843b16636357c[m
+Merge: b79bf5b 2730a0b
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Mon Apr 13 17:35:48 2026 +0000
+
+    Merge branch 'iypfgi-master-patch-05804' into 'master'
+    
+    Edit pom.xml
+    
+    See merge request szofttech-c-2026/group-07/aad!6
+
+[33mcommit 2730a0b8e08b2b755297387796b9814f987e8eb2[m
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Mon Apr 13 17:35:35 2026 +0000
+
+    Edit pom.xml
+
+[33mcommit b79bf5bf533c52274da0caa2da44d120f3ef1869[m
+Merge: 4c199ed 977eb80
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Mon Apr 13 17:33:55 2026 +0000
+
+    Merge branch 'iypfgi-master-patch-00267' into 'master'
+    
+    Add pom.xml
+    
+    See merge request szofttech-c-2026/group-07/aad!5
+
+[33mcommit 977eb80f356c1d1462f8156796ec998d3ce7a4a4[m
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Mon Apr 13 17:33:39 2026 +0000
+
+    Add pom.xml
+
+[33mcommit 4c199edff148a99e86e1af0ce70ea03014a99b0c[m
+Merge: a9cef0d fe995aa
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Mon Apr 13 17:32:02 2026 +0000
+
+    Merge branch 'pom' into 'master'
+    
+    Pom
+    
+    See merge request szofttech-c-2026/group-07/aad!4
+
+[33mcommit fe995aa1b72c41de67f5a7d13e88155eb86b0fb7[m[33m ([m[1;31morigin/pom[m[33m, [m[1;32mpom[m[33m)[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Mon Apr 13 19:30:06 2026 +0200
+
+    pom.xml added
+
+[33mcommit 90f3906903f0b902a6355849bc358d24a06879b0[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Mon Apr 13 19:28:25 2026 +0200
+
+    Add pom.xml
+
+[33mcommit 0dc7077321748f226d0e522c91a74886a21e37d7[m[33m ([m[1;31morigin/Camera[m[33m, [m[1;32mCamera[m[33m)[m
+Author: IYPFGI <iypfgi@inf.elte.hu>
+Date:   Mon Apr 13 13:30:26 2026 +0200
+
+    Megcsináltam a kamerát a te mapgenerelásoddal, csak megváltoztattam egy picit, hogy nem generálja le az egész mapot vizuálisan, csak azt amit éppen lát a játékos
+
+[33mcommit a9cef0d6ae946c0e9757c2cf4b6a2c5fae32b163[m
+Merge: 9d6d629 c65e8f3
+Author: Páll Áron Benedek <iypfgi@inf.elte.hu>
+Date:   Mon Apr 13 11:10:09 2026 +0000
+
+    Merge branch 'Debug' into 'master'
+    
+    pálya kirajzolás frissítése hogy gyorsabb legyen az út és a megálló lerakás
+    
+    See merge request szofttech-c-2026/group-07/aad!1
+
+[33mcommit c65e8f32087a7a5c66405915ddfc228b95eb36c3[m
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Mon Apr 13 00:25:38 2026 +0200
+
+    pálya kirajzolás frissítése hogy gyorsabb legyen az út és a megálló lerakás
+
+[33mcommit 9d6d629698c2db8398d6d692361f47d4cf990b99[m
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Wed Mar 25 12:41:23 2026 +0100
+
+    Járművásárlás javítás(ne menjunk negatívba)
+
+[33mcommit 629cd5e23e7340f6c4cdba512ff16bbe03c6638e[m
+Author: Bálint Ádám <a4lszx@inf.elte.hu>
+Date:   Wed Mar 25 12:08:00 2026 +0100
+
+    Megállók építése
+
+                   SSUUMMMMAARRYY OOFF LLEESSSS CCOOMMMMAANNDDSS
+
+      Commands marked with * may be preceded by a number, _N.
+      Notes in parentheses indicate the behavior if _N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------
+
+                           MMOOVVIINNGG
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or _N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or _N lines).
+  ESC-j             *  Forward  one file line (or _N file lines).
+  ESC-k             *  Backward one file line (or _N file lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or _N lines).
+  b  ^B  ESC-v      *  Backward one window (or _N lines).
+  z                 *  Forward  one window (and set window to _N).
+  w                 *  Backward one window (and set window to _N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.
+  ESC-b             *  Backward one window, but don't stop at beginning-of-file.
+  d  ^D             *  Forward  one half-window (and set half-window to _N).
+  u  ^U             *  Backward one half-window (and set half-window to _N).
+  ESC-)  RightArrow *  Right one half screen width (or _N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or _N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+  ESC-F                Like F but stop when search pattern is found.
+  ESC-f                Like F but ring the bell when search pattern is found.
+  r  ^R  ^L            Repaint screen.
+  R                    Repaint screen, discarding buffered input.
+        ---------------------------------------------------
+        Default "window" is the screen height.
+        Default "half-window" is half of the screen height.
+ ---------------------------------------------------------------------------
+
+                          SSEEAARRCCHHIINNGG
+
+  /_p_a_t_t_e_r_n          *  Search forward for (_N-th) matching line.
+  ?_p_a_t_t_e_r_n          *  Search backward for (_N-th) matching line.
+  n                 *  Repeat previous search (for _N-th occurrence).
+  N                 *  Repeat previous search in reverse direction.
+  ESC-n             *  Repeat previous search, spanning files.
+  ESC-N             *  Repeat previous search, reverse dir. & spanning files.
+  ^O^N  ^On         *  Search forward for (_N-th) OSC8 hyperlink.
+  ^O^P  ^Op         *  Search backward for (_N-th) OSC8 hyperlink.
+  ^O^L  ^Ol            Jump to the currently selected OSC8 hyperlink.
+  ESC-u                Undo (toggle) search highlighting.
+  ESC-U                Clear search highlighting.
+  &_p_a_t_t_e_r_n          *  Display only matching lines.
+        ---------------------------------------------------
+		Search is case-sensitive unless changed with -i or -I.
+        A search pattern may begin with one or more of:
+        ^N or !  Search for NON-matching lines.
+        ^E or *  Search multiple files (pass thru END OF FILE).
+        ^F or @  Start search at FIRST file (for /) or last file (for ?).
+        ^K       Highlight matches, but don't move (KEEP position).
+        ^R       Don't use REGULAR EXPRESSIONS.
+        ^S _n     Search for match in _n-th parenthesized subpattern.
+        ^W       WRAP search if no match found.
+        ^L       Enter next character literally into pattern.
+ ---------------------------------------------------------------------------
+
+                           JJUUMMPPIINNGG
+
+  g  <  ESC-<       *  Go to first line in file (or line _N).
+  G  >  ESC->       *  Go to last line in file (or line _N).
+  p  %              *  Go to beginning of file (or _N percent into file).
+  t                 *  Go to the (_N-th) next tag.
+  T                 *  Go to the (_N-th) previous tag.
+  {  (  [           *  Find close bracket } ) ].
+  }  )  ]           *  Find open bracket { ( [.
+  ESC-^F _<_c_1_> _<_c_2_>  *  Find close bracket _<_c_2_>.
+  ESC-^B _<_c_1_> _<_c_2_>  *  Find open bracket _<_c_1_>.
+        ---------------------------------------------------
+        Each "find close bracket" command goes forward to the close bracket 
+          matching the (_N-th) open bracket in the top line.
+        Each "find open bracket" command goes backward to the open bracket 
+          matching the (_N-th) close bracket in the bottom line.
+
+  m_<_l_e_t_t_e_r_>            Mark the current top line with <letter>.
+  M_<_l_e_t_t_e_r_>            Mark the current bottom line with <letter>.
+  '_<_l_e_t_t_e_r_>            Go to a previously marked position.
+  ''                   Go to the previous position.
+  ^X^X                 Same as '.
+  ESC-m_<_l_e_t_t_e_r_>        Clear a mark.
+        ---------------------------------------------------
+        A mark is any upper-case or lower-case letter.
+        Certain marks are predefined:
+             ^  means  beginning of the file
+             $  means  end of the file
+ ---------------------------------------------------------------------------
+
+                        CCHHAANNGGIINNGG FFIILLEESS
+
+  :e [_f_i_l_e]            Examine a new file.
+  ^X^V                 Same as :e.
+  :n                *  Examine the (_N-th) next file from the command line.
+  :p                *  Examine the (_N-th) previous file from the command line.
+  :x                *  Examine the first (or _N-th) file from the command line.
+  ^O^O                 Open the currently selected OSC8 hyperlink.
+  :d                   Delete the current file from the command line list.
+  =  ^G  :f            Print current file name.
+ ---------------------------------------------------------------------------
+
+                    MMIISSCCEELLLLAANNEEOOUUSS CCOOMMMMAANNDDSS
+
+  -_<_f_l_a_g_>              Toggle a command line option [see OPTIONS below].
+  --_<_n_a_m_e_>             Toggle a command line option, by name.
+  __<_f_l_a_g_>              Display the setting of a command line option.
+  ___<_n_a_m_e_>             Display the setting of an option, by name.
+  +_c_m_d                 Execute the less cmd each time a new file is examined.
+
+  !_c_o_m_m_a_n_d             Execute the shell command with $SHELL.
+  #_c_o_m_m_a_n_d             Execute the shell command, expanded like a prompt.
+  |XX_c_o_m_m_a_n_d            Pipe file between current pos & mark XX to shell command.
+  s _f_i_l_e               Save input to a file.
+  v                    Edit the current file with $VISUAL or $EDITOR.
+  V                    Print version number of "less".
+ ---------------------------------------------------------------------------
+
+                           OOPPTTIIOONNSS
+
+        Most options may be changed either on the command line,
+        or from within less by using the - or -- command.
+        Options may be given in one of two forms: either a single
+        character preceded by a -, or a name preceded by --.
+
+  -?  ........  --help
+                  Display help (from command line).
+  -a  ........  --search-skip-screen
+                  Search skips current screen.
+  -A  ........  --SEARCH-SKIP-SCREEN
+                  Search starts just after target line.
+  -b [_N]  ....  --buffers=[_N]
+                  Number of buffers.
+  -B  ........  --auto-buffers
+                  Don't automatically allocate buffers for pipes.
+  -c  ........  --clear-screen
+                  Repaint by clearing rather than scrolling.
+  -d  ........  --dumb
+                  Dumb terminal.
+  -D xx_c_o_l_o_r  .  --color=xx_c_o_l_o_r
+                  Set screen colors.
+  -e  -E  ....  --quit-at-eof  --QUIT-AT-EOF
+                  Quit at end of file.
+  -f  ........  --force
+                  Force open non-regular files.
+  -F  ........  --quit-if-one-screen
+                  Quit if entire file fits on first screen.
+  -g  ........  --hilite-search
+                  Highlight only last match for searches.
+  -G  ........  --HILITE-SEARCH
+                  Don't highlight any matches for searches.
+  -h [_N]  ....  --max-back-scroll=[_N]
+                  Backward scroll limit.
+  -i  ........  --ignore-case
+                  Ignore case in searches that do not contain uppercase.
+  -I  ........  --IGNORE-CASE
+                  Ignore case in all searches.
+  -j [_N]  ....  --jump-target=[_N]
+                  Screen position of target lines.
+  -J  ........  --status-column
+                  Display a status column at left edge of screen.
+  -k _f_i_l_e  ...  --lesskey-file=_f_i_l_e
+                  Use a compiled lesskey file.
+  -K  ........  --quit-on-intr
+                  Exit less in response to ctrl-C.
+  -L  ........  --no-lessopen
+                  Ignore the LESSOPEN environment variable.
+  -m  -M  ....  --long-prompt  --LONG-PROMPT
+                  Set prompt style.
+  -n .........  --line-numbers
+                  Suppress line numbers in prompts and messages.
+  -N .........  --LINE-NUMBERS
+                  Display line number at start of each line.
+  -o [_f_i_l_e] ..  --log-file=[_f_i_l_e]
+                  Copy to log file (standard input only).
+  -O [_f_i_l_e] ..  --LOG-FILE=[_f_i_l_e]
+                  Copy to log file (unconditionally overwrite).
+  -p _p_a_t_t_e_r_n .  --pattern=[_p_a_t_t_e_r_n]
+                  Start at pattern (from command line).
+  -P [_p_r_o_m_p_t]   --prompt=[_p_r_o_m_p_t]
+                  Define new prompt.
+  -q  -Q  ....  --quiet  --QUIET  --silent --SILENT
+                  Quiet the terminal bell.
+  -r  -R  ....  --raw-control-chars  --RAW-CONTROL-CHARS
+                  Output "raw" control characters.
+  -s  ........  --squeeze-blank-lines
+                  Squeeze multiple blank lines.
+  -S  ........  --chop-long-lines
+                  Chop (truncate) long lines rather than wrapping.
+  -t _t_a_g  ....  --tag=[_t_a_g]
+                  Find a tag.
+  -T [_t_a_g_s_f_i_l_e] --tag-file=[_t_a_g_s_f_i_l_e]
+                  Use an alternate tags file.
+  -u  -U  ....  --underline-special  --UNDERLINE-SPECIAL
+                  Change handling of backspaces, tabs and carriage returns.
+  -V  ........  --version
+                  Display the version number of "less".
+  -w  ........  --hilite-unread
+                  Highlight first new line after forward-screen.
+  -W  ........  --HILITE-UNREAD
+                  Highlight first new line after any forward movement.
+  -x [_N[,...]]  --tabs=[_N[,...]]
+                  Set tab stops.
+  -X  ........  --no-init
+                  Don't use termcap init/deinit strings.
+  -y [_N]  ....  --max-forw-scroll=[_N]
+                  Forward scroll limit.
+  -z [_N]  ....  --window=[_N]
+                  Set size of window.
+  -" [_c[_c]]  .  --quotes=[_c[_c]]
+                  Set shell quote characters.
+  -~  ........  --tilde
+                  Don't display tildes after end of file.
+  -# [_N]  ....  --shift=[_N]
+                  Set horizontal scroll amount (0 = one half screen width).
+
+                --autosave=[_m_/_!_*]
+                  Actions which cause the history file to be saved.
+                --exit-follow-on-close
+                  Exit F command on a pipe when writer closes pipe.
+                --file-size
+                  Automatically determine the size of the input file.
+                --follow-name
+                  The F command changes files if the input file is renamed.
+                --form-feed
+                  Stop scrolling when a form feed character is reached.
+                --header=[_L[,_C[,_N]]]
+                  Use _L lines (starting at line _N) and _C columns as headers.
+                --incsearch
+                  Search file as each pattern character is typed in.
+                --intr=[_C]
+                  Use _C instead of ^X to interrupt a read.
+                --lesskey-context=_t_e_x_t
+                  Use lesskey source file contents.
+                --lesskey-src=_f_i_l_e
+                  Use a lesskey source file.
+                --line-num-width=[_N]
+                  Set the width of the -N line number field to _N characters.
+                --match-shift=[_N]
+                  Show at least _N characters to the left of a search match.
+                --modelines=[_N]
+                  Read _N lines from the input file and look for vim modelines.
+                --mouse
+                  Enable mouse input.
+                --no-edit-warn
+                  Don't warn when using v command on a file opened via LESSOPEN.
+                --no-keypad
+                  Don't send termcap keypad init/deinit strings.
+                --no-histdups
+                  Remove duplicates from command history.
+                --no-number-headers
+                  Don't give line numbers to header lines.
+                --no-paste
+                  Ignore pasted input.
+                --no-search-header-lines
+                  Searches do not include header lines.
+                --no-search-header-columns
+                  Searches do not include header columns.
+                --no-search-headers
+                  Searches do not include header lines or columns.
+                --no-vbell
+                  Disable the terminal's visual bell.
+                --redraw-on-quit
+                  Redraw final screen when quitting.
+                --rscroll=[_C]
+                  Set the character used to mark truncated lines.
+                --save-marks
+                  Retain marks across invocations of less.
+                --search-options=[EFKNRW-]
+                  Set default options for every search.
+                --show-preproc-errors
+                  Display a message if preprocessor exits with an error status.
+                --proc-backspace
+                  Process backspaces for bold/underline.
+                --PROC-BACKSPACE
+                  Treat backspaces as control characters.
+                --proc-return
+                  Delete carriage returns before newline.
+                --PROC-RETURN
+                  Treat carriage returns as control characters.
+                --proc-tab
+                  Expand tabs to spaces.
+                --PROC-TAB
+                  Treat tabs as control characters.
+                --status-col-width=[_N]
+                  Set the width of the -J status column to _N characters.
+                --status-line
+                  Highlight or color the entire line containing a mark.
+                --use-backslash
+                  Subsequent options use backslash as escape char.
+                --use-color
+                  Enables colored text.
+                --wheel-lines=[_N]
+                  Each click of the mouse wheel moves _N lines.
+                --wordwrap
+                  Wrap lines at spaces.
+
+
+ ---------------------------------------------------------------------------
+
+                          LLIINNEE EEDDIITTIINNGG
+
+        These keys can be used to edit text being entered 
+        on the "command line" at the bottom of the screen.
+
+ RightArrow ..................... ESC-l ... Move cursor right one character.
+ LeftArrow ...................... ESC-h ... Move cursor left one character.
+ ctrl-RightArrow  ESC-RightArrow  ESC-w ... Move cursor right one word.
+ ctrl-LeftArrow   ESC-LeftArrow   ESC-b ... Move cursor left one word.
+ HOME ........................... ESC-0 ... Move cursor to start of line.
+ END ............................ ESC-$ ... Move cursor to end of line.
+ BACKSPACE ................................ Delete char to left of cursor.
+ DELETE ......................... ESC-x ... Delete char under cursor.
+ ctrl-BACKSPACE   ESC-BACKSPACE ........... Delete word to left of cursor.
+ ctrl-DELETE .... ESC-DELETE .... ESC-X ... Delete word under cursor.
+ ctrl-U ......... ESC (MS-DOS only) ....... Delete entire line.
+ UpArrow ........................ ESC-k ... Retrieve previous command line.
+ DownArrow ...................... ESC-j ... Retrieve next command line.
+ TAB ...................................... Complete filename & cycle.
+ SHIFT-TAB ...................... ESC-TAB   Complete filename & reverse cycle.
+ ctrl-L ................................... Complete filename, list all.
+
+                   SSUUMMMMAARRYY OOFF LLEESSSS CCOOMMMMAANNDDSS
+
+      Commands marked with * may be preceded by a number, _N.
+      Notes in parentheses indicate the behavior if _N is given.
+      A key preceded by a caret indicates the Ctrl key; thus ^K is ctrl-K.
+
+  h  H                 Display this help.
+  q  :q  Q  :Q  ZZ     Exit.
+ ---------------------------------------------------------------------------
+
+                           MMOOVVIINNGG
+
+  e  ^E  j  ^N  CR  *  Forward  one line   (or _N lines).
+  y  ^Y  k  ^K  ^P  *  Backward one line   (or _N lines).
+  ESC-j             *  Forward  one file line (or _N file lines).
+  ESC-k             *  Backward one file line (or _N file lines).
+  f  ^F  ^V  SPACE  *  Forward  one window (or _N lines).
+  b  ^B  ESC-v      *  Backward one window (or _N lines).
+  z                 *  Forward  one window (and set window to _N).
+  w                 *  Backward one window (and set window to _N).
+  ESC-SPACE         *  Forward  one window, but don't stop at end-of-file.
+  ESC-b             *  Backward one window, but don't stop at beginning-of-file.
+  d  ^D             *  Forward  one half-window (and set half-window to _N).
+  u  ^U             *  Backward one half-window (and set half-window to _N).
+  ESC-)  RightArrow *  Right one half screen width (or _N positions).
+  ESC-(  LeftArrow  *  Left  one half screen width (or _N positions).
+  ESC-}  ^RightArrow   Right to last column displayed.
+  ESC-{  ^LeftArrow    Left  to first column.
+  F                    Forward forever; like "tail -f".
+  ESC-F                Like F but stop when search pattern is found.
+  ESC-f                Like F but ring the bell when search pattern is found.
+  r  ^R  ^L            Repaint screen.
+  R                    Repaint screen, discarding buffered input.
+        ---------------------------------------------------
+        Default "window" is the screen height.
+        Default "half-window" is half of the screen height.
+ ---------------------------------------------------------------------------
+
+                          SSEEAARRCCHHIINNGG
+
+  /_p_a_t_t_e_r_n          *  Search forward for (_N-th) matching line.
+  ?_p_a_t_t_e_r_n          *  Search backward for (_N-th) matching line.
+  n                 *  Repeat previous search (for _N-th occurrence).
+  N                 *  Repeat previous search in reverse direction.
+  ESC-n             *  Repeat previous search, spanning files.
+  ESC-N             *  Repeat previous search, reverse dir. & spanning files.
+  ^O^N  ^On         *  Search forward for (_N-th) OSC8 hyperlink.
+  ^O^P  ^Op         *  Search backward for (_N-th) OSC8 hyperlink.
+  ^O^L  ^Ol            Jump to the currently selected OSC8 hyperlink.
+  ESC-u                Undo (toggle) search highlighting.
+  ESC-U                Clear search highlighting.
+  &_p_a_t_t_e_r_n          *  Display only matching lines.
+        ---------------------------------------------------
+		Search is case-sensitive unless changed with -i or -I.
+        A search pattern may begin with one or more of:
+        ^N or !  Search for NON-matching lines.
+        ^E or *  Search multiple files (pass thru END OF FILE).
+        ^F or @  Start search at FIRST file (for /) or last file (for ?).
+        ^K       Highlight matches, but don't move (KEEP position).
+        ^R       Don't use REGULAR EXPRESSIONS.
+        ^S _n     Search for match in _n-th parenthesized subpattern.
+        ^W       WRAP search if no match found.
+        ^L       Enter next character literally into pattern.
+ ---------------------------------------------------------------------------
+
+                           JJUUMMPPIINNGG
+
+  g  <  ESC-<       *  Go to first line in file (or line _N).
+  G  >  ESC->       *  Go to last line in file (or line _N).
+  p  %              *  Go to beginning of file (or _N percent into file).
+  t                 *  Go to the (_N-th) next tag.
+  T                 *  Go to the (_N-th) previous tag.
+  {  (  [           *  Find close bracket } ) ].
+  }  )  ]           *  Find open bracket { ( [.
+  ESC-^F _<_c_1_> _<_c_2_>  *  Find close bracket _<_c_2_>.
+  ESC-^B _<_c_1_> _<_c_2_>  *  Find open bracket _<_c_1_>.
+        ---------------------------------------------------
+        Each "find close bracket" command goes forward to the close bracket 
+          matching the (_N-th) open bracket in the top line.
+        Each "find open bracket" command goes backward to the open bracket 
+          matching the (_N-th) close bracket in the bottom line.
+
+  m_<_l_e_t_t_e_r_>            Mark the current top line with <letter>.
+  M_<_l_e_t_t_e_r_>            Mark the current bottom line with <letter>.
+  '_<_l_e_t_t_e_r_>            Go to a previously marked position.
+  ''                   Go to the previous position.
+  ^X^X                 Same as '.
+  ESC-m_<_l_e_t_t_e_r_>        Clear a mark.
+        ---------------------------------------------------
+        A mark is any upper-case or lower-case letter.
+        Certain marks are predefined:
+             ^  means  beginning of the file
+             $  means  end of the file
+ ---------------------------------------------------------------------------
+
+                        CCHHAANNGGIINNGG FFIILLEESS
+
+  :e [_f_i_l_e]            Examine a new file.
+  ^X^V                 Same as :e.
+  :n                *  Examine the (_N-th) next file from the command line.
+  :p                *  Examine the (_N-th) previous file from the command line.
+  :x                *  Examine the first (or _N-th) file from the command line.
+  ^O^O                 Open the currently selected OSC8 hyperlink.
+  :d                   Delete the current file from the command line list.
+  =  ^G  :f            Print current file name.
+ ---------------------------------------------------------------------------
+
+                    MMIISSCCEELLLLAANNEEOOUUSS CCOOMMMMAANNDDSS
+
+  -_<_f_l_a_g_>              Toggle a command line option [see OPTIONS below].
+  --_<_n_a_m_e_>             Toggle a command line option, by name.
+  __<_f_l_a_g_>              Display the setting of a command line option.
+  ___<_n_a_m_e_>             Display the setting of an option, by name.
+  +_c_m_d                 Execute the less cmd each time a new file is examined.
+
+  !_c_o_m_m_a_n_d             Execute the shell command with $SHELL.
+  #_c_o_m_m_a_n_d             Execute the shell command, expanded like a prompt.
+  |XX_c_o_m_m_a_n_d            Pipe file between current pos & mark XX to shell command.
+  s _f_i_l_e               Save input to a file.
+  v                    Edit the current file with $VISUAL or $EDITOR.
+  V                    Print version number of "less".
+ ---------------------------------------------------------------------------
+
+                           OOPPTTIIOONNSS
+
+        Most options may be changed either on the command line,
+        or from within less by using the - or -- command.
+        Options may be given in one of two forms: either a single
+        character preceded by a -, or a name preceded by --.
+
+  -?  ........  --help
+                  Display help (from command line).
+  -a  ........  --search-skip-screen
+                  Search skips current screen.
+  -A  ........  --SEARCH-SKIP-SCREEN
+                  Search starts just after target line.
+  -b [_N]  ....  --buffers=[_N]
+                  Number of buffers.
+  -B  ........  --auto-buffers
+                  Don't automatically allocate buffers for pipes.
+  -c  ........  --clear-screen
+                  Repaint by clearing rather than scrolling.
+  -d  ........  --dumb
+                  Dumb terminal.
+  -D xx_c_o_l_o_r  .  --color=xx_c_o_l_o_r
+                  Set screen colors.
+  -e  -E  ....  --quit-at-eof  --QUIT-AT-EOF
+                  Quit at end of file.
+  -f  ........  --force
+                  Force open non-regular files.
+  -F  ........  --quit-if-one-screen
+                  Quit if entire file fits on first screen.
+  -g  ........  --hilite-search
+                  Highlight only last match for searches.
+  -G  ........  --HILITE-SEARCH
+                  Don't highlight any matches for searches.
+  -h [_N]  ....  --max-back-scroll=[_N]
+                  Backward scroll limit.
+  -i  ........  --ignore-case
+                  Ignore case in searches that do not contain uppercase.
+  -I  ........  --IGNORE-CASE
+                  Ignore case in all searches.
+  -j [_N]  ....  --jump-target=[_N]
+                  Screen position of target lines.
+  -J  ........  --status-column
+                  Display a status column at left edge of screen.
+  -k _f_i_l_e  ...  --lesskey-file=_f_i_l_e
+                  Use a compiled lesskey file.
+  -K  ........  --quit-on-intr
+                  Exit less in response to ctrl-C.
+  -L  ........  --no-lessopen
+                  Ignore the LESSOPEN environment variable.
+  -m  -M  ....  --long-prompt  --LONG-PROMPT
+                  Set prompt style.
+  -n .........  --line-numbers
+                  Suppress line numbers in prompts and messages.
+  -N .........  --LINE-NUMBERS
+                  Display line number at start of each line.
+  -o [_f_i_l_e] ..  --log-file=[_f_i_l_e]
+                  Copy to log file (standard input only).
+  -O [_f_i_l_e] ..  --LOG-FILE=[_f_i_l_e]
+                  Copy to log file (unconditionally overwrite).
+  -p _p_a_t_t_e_r_n .  --pattern=[_p_a_t_t_e_r_n]
+                  Start at pattern (from command line).
+  -P [_p_r_o_m_p_t]   --prompt=[_p_r_o_m_p_t]
+                  Define new prompt.
+  -q  -Q  ....  --quiet  --QUIET  --silent --SILENT
+                  Quiet the terminal bell.
+  -r  -R  ....  --raw-control-chars  --RAW-CONTROL-CHARS
+                  Output "raw" control characters.
+  -s  ........  --squeeze-blank-lines
+                  Squeeze multiple blank lines.
+  -S  ........  --chop-long-lines
+                  Chop (truncate) long lines rather than wrapping.
+  -t _t_a_g  ....  --tag=[_t_a_g]
+                  Find a tag.
+  -T [_t_a_g_s_f_i_l_e] --tag-file=[_t_a_g_s_f_i_l_e]
+                  Use an alternate tags file.
+  -u  -U  ....  --underline-special  --UNDERLINE-SPECIAL
+                  Change handling of backspaces, tabs and carriage returns.
+  -V  ........  --version
+                  Display the version number of "less".
+  -w  ........  --hilite-unread
+                  Highlight first new line after forward-screen.
+  -W  ........  --HILITE-UNREAD
+                  Highlight first new line after any forward movement.
+  -x [_N[,...]]  --tabs=[_N[,...]]
+                  Set tab stops.
+  -X  ........  --no-init
+                  Don't use termcap init/deinit strings.
+  -y [_N]  ....  --max-forw-scroll=[_N]
+                  Forward scroll limit.
+  -z [_N]  ....  --window=[_N]
+                  Set size of window.
+  -" [_c[_c]]  .  --quotes=[_c[_c]]
+                  Set shell quote characters.
+  -~  ........  --tilde
+                  Don't display tildes after end of file.
+  -# [_N]  ....  --shift=[_N]
+                  Set horizontal scroll amount (0 = one half screen width).
+
+                --autosave=[_m_/_!_*]
+                  Actions which cause the history file to be saved.
+                --exit-follow-on-close
+                  Exit F command on a pipe when writer closes pipe.
+                --file-size
+                  Automatically determine the size of the input file.
+                --follow-name
+                  The F command changes files if the input file is renamed.
+                --form-feed
+                  Stop scrolling when a form feed character is reached.
+                --header=[_L[,_C[,_N]]]
+                  Use _L lines (starting at line _N) and _C columns as headers.
+                --incsearch
+                  Search file as each pattern character is typed in.
+                --intr=[_C]
+                  Use _C instead of ^X to interrupt a read.
+                --lesskey-context=_t_e_x_t
+                  Use lesskey source file contents.
+                --lesskey-src=_f_i_l_e
+                  Use a lesskey source file.
+                --line-num-width=[_N]
+                  Set the width of the -N line number field to _N characters.
+                --match-shift=[_N]
+                  Show at least _N characters to the left of a search match.
+                --modelines=[_N]
+                  Read _N lines from the input file and look for vim modelines.
+                --mouse
+                  Enable mouse input.
+                --no-edit-warn
+                  Don't warn when using v command on a file opened via LESSOPEN.
+                --no-keypad
+                  Don't send termcap keypad init/deinit strings.
+                --no-histdups
+                  Remove duplicates from command history.
+                --no-number-headers
+                  Don't give line numbers to header lines.
+                --no-paste
+                  Ignore pasted input.
+                --no-search-header-lines
+                  Searches do not include header lines.
+                --no-search-header-columns
+                  Searches do not include header columns.
+                --no-search-headers
+                  Searches do not include header lines or columns.
+                --no-vbell
+                  Disable the terminal's visual bell.
+                --redraw-on-quit
+                  Redraw final screen when quitting.
+                --rscroll=[_C]
+                  Set the character used to mark truncated lines.
+                --save-marks
+                  Retain marks across invocations of less.
+                --search-options=[EFKNRW-]
+                  Set default options for every search.
+                --show-preproc-errors
+                  Display a message if preprocessor exits with an error status.
+                --proc-backspace
+                  Process backspaces for bold/underline.
+                --PROC-BACKSPACE
+                  Treat backspaces as control characters.
+                --proc-return
+                  Delete carriage returns before newline.
+                --PROC-RETURN
+                  Treat carriage returns as control characters.
+                --proc-tab
+                  Expand tabs to spaces.
+                --PROC-TAB
+                  Treat tabs as control characters.
+                --status-col-width=[_N]
+                  Set the width of the -J status column to _N characters.
+                --status-line
+                  Highlight or color the entire line containing a mark.
+                --use-backslash
+                  Subsequent options use backslash as escape char.
+                --use-color
+                  Enables colored text.
+                --wheel-lines=[_N]
+                  Each click of the mouse wheel moves _N lines.
+                --wordwrap
+                  Wrap lines at spaces.
+
+
+ ---------------------------------------------------------------------------
+
+                          LLIINNEE EEDDIITTIINNGG
+
+        These keys can be used to edit text being entered 
+        on the "command line" at the bottom of the screen.
+
+ RightArrow ..................... ESC-l ... Move cursor right one character.
+ LeftArrow ...................... ESC-h ... Move cursor left one character.
+ ctrl-RightArrow  ESC-RightArrow  ESC-w ... Move cursor right one word.
+ ctrl-LeftArrow   ESC-LeftArrow   ESC-b ... Move cursor left one word.
+ HOME ........................... ESC-0 ... Move cursor to start of line.
+ END ............................ ESC-$ ... Move cursor to end of line.
+ BACKSPACE ................................ Delete char to left of cursor.
+ DELETE ......................... ESC-x ... Delete char under cursor.
+ ctrl-BACKSPACE   ESC-BACKSPACE ........... Delete word to left of cursor.
+ ctrl-DELETE .... ESC-DELETE .... ESC-X ... Delete word under cursor.
+ ctrl-U ......... ESC (MS-DOS only) ....... Delete entire line.
+ UpArrow ........................ ESC-k ... Retrieve previous command line.
+ DownArrow ...................... ESC-j ... Retrieve next command line.
+ TAB ...................................... Complete filename & cycle.
+ SHIFT-TAB ...................... ESC-TAB   Complete filename & reverse cycle.
+ ctrl-L ................................... Complete filename, list all.
