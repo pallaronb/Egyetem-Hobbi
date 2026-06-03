@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="hu">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Budapest Metrói</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+
+<body>
+    <div id="get-player-name">
+        <h1>Kérlek add meg a neved!</h1>
+        <input type="text" id="player-name" placeholder="Írd ide a neved...">
+        <br>
+        <button id="tomenu">Kész</button>
+    </div>
+    <div id="menu-container" class="hidden">
+        <h2>Budapest Metrói</h2>
+        <br><br>
+        <button id="start">Játék indítása</button>
+        <br>
+        <button id="rules">Szabályok</button>
+    </div>
+
+    <div id="rulebook" class="hidden">
+        <h2>Szabályok</h2>
+        <p>A játék célja, hogya lehető legtöbb pontot összegyűjtsűk az állomások közötti metróvonalak berajzolásával</p>
+         <p>
+            Irányítás:         </p>
+          <p>
+Amikor rákattint egy állomásra, kiemelődnek azok az állomások, amelyre tovább tud lépni, a célállomásra való kattintással tudja összekötni a kettő állomást
+
+          </p>      
+         <p>
+            Szabályok:</p>
+            <p>
+            A metróvonalat muszáj a végponttól folytatni!
+            </p>
+            <p>
+            Nem kiemelt állomás nem lehet célállomás!
+            </p>
+            <p>
+            Olyan helyre amit már érintett a metró, új szakasz nem köthető!
+            </p>
+        </p>
+        <button id="backtomenu">Vissza a Menübe</button>
+    </div>
+
+    <div id="gameboard" class="hidden">
+
+        <div id="game-map-container">
+            <div id="game-info"></div>
+            <div id="grid"></div>
+            <div id="line-layer"></div>
+        </div>
+
+        <div id="right-panel">
+
+            <div id="current-card-container">
+                <p style="font-size: 0.6em; margin-bottom: 5px;">Felhúzott kártya</p>
+                <div id="current-card-display">---</div>
+            </div>
+
+            <div id="time-container">
+                <p style="font-size: 0.4em; margin-bottom: 5px;">Eltelt idő</p>
+                <span id="timer-display">00:00</span>
+            </div>
+
+            <div id="score-table-placeholder">
+                <p>Pontszámítás:</p>
+                <p>
+                    A Pontszámítás még munka alatt áll!
+                </p>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="index.js"></script>
+</body>
+
+</html>
