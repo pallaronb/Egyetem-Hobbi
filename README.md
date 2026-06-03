@@ -1,23 +1,20 @@
-# Egyetem-Hobbi
-Egyetemi projektek, valamint Hobbiprojektek
+# University and Personal Programming Projects
 
-Egyetemi projektek:
-C#/Legmelegebb Napok
-C++/NewProject
-C/Image_GIF_printer
-C/Vineyard Simulation
-Haskell/Hazi2
-Java/Capitaly Game Simulation
-Java/Go
-Java/Parking_Lot_Simulation
-Java/Rubick Clock - Game
-Java/Tron - Game
-Python/Hazi1
-Webfejlesztés/BeadandoPHP
-Webfejlesztés/Metró Hálózatok Tervezése - Játék
+This repository contains software projects developed during my Computer Science studies at Eötvös Loránd University and in my spare time.
 
-HobbiProjektek:
-C#/RPG Játék Szimulálása
+## Technologies
+- Java
+- C#
+- C++
+- C
+- Python
+- Haskell
+- HTML/CSS/PHP
 
-DISCLAIMER
---A projektek forráskódjában megjelnhetnek olyan kódrészletek, amiket egyetemi tanárok/professzorok, valamint barátaim írtak (pl. Storage a Webfejlesztés/PHP -s kódokban), viszont a kódok kb. 90, ha nem több százalékát én írtam, emiatt kerültek fel ide.
+## Featured Projects
+- Tron Game (Java)
+- Image Blurring Program (C++)
+- Go (Java)
+
+## Purpose
+This repository serves as a portfolio of my academic and personal software development projects.
