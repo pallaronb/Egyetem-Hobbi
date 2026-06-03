@@ -9,8 +9,6 @@ Főbb funkciók
 
     Útvonaltervezés: A járművek a megállók között kijelölt útvonalon, automatikus ütközéselkerüléssel közlekednek.
 
-    Mentés és betöltés: A játékállás perzisztens tárolása a SaveHandler segítségével.
-
 Technológiai verem
 
     Nyelv: Java (JDK 17+)
@@ -51,3 +49,5 @@ Felépítés / Architektúra
     citybuilder.vehicles.*: A járművek viselkedését és kapacitását leíró modellek.
 
     citybuilder.GameGUI: A felhasználói felület megjelenítése.
+
+DISCLAIMER: Mivel egy csapattal dolgoztam közösen, megeshett, hogy néhány kódrészletet nem én írtam.
