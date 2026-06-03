@@ -1,0 +1,6 @@
+com\mycompany\rubikclock\FieldClickerGUI.class
+com\mycompany\rubikclock\FieldClickerGUI$MoveListener.class
+com\mycompany\rubikclock\RubikClock.class
+com\mycompany\rubikclock\Field.class
+com\mycompany\rubikclock\Board.class
+com\mycompany\rubikclock\BoardGUI.class

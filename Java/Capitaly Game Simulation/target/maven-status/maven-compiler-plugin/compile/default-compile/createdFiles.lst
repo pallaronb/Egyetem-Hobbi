@@ -1,0 +1,11 @@
+com\mycompany\captaly\Luck.class
+com\mycompany\captaly\UnexpectedInputException.class
+com\mycompany\captaly\Player.class
+com\mycompany\captaly\Service.class
+com\mycompany\captaly\FieldType.class
+com\mycompany\captaly\Property.class
+com\mycompany\captaly\Tactican.class
+com\mycompany\captaly\Board.class
+com\mycompany\captaly\Careful.class
+com\mycompany\captaly\Greedy.class
+com\mycompany\captaly\Captaly.class

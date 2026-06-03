@@ -1,0 +1,13 @@
+8
+L 500
+S 200
+P
+L 1000
+P
+S 100000
+L 700
+P
+3
+Bob G 2
+Alice C 5
+Clara T 5
