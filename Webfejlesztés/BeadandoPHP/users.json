@@ -1,0 +1,17 @@
+{
+    "695d3e80614ce": {
+        "username": "admin",
+        "password": "$2y$12$8iTgde\/8OK.FDJUWDbc27.NmeZHMJSr8ghxtJ2wcEb6vZ\/QSlzaEq",
+        "email": "admin@admin.hu",
+        "is_admin": true,
+        "id": "695d3e80614ce"
+    },
+    "695e323fce23c": {
+        "username": "Tomi",
+        "password": "$2y$12$o9ZapoRFyFXnpfClhvJe8O.I7Ooho23NZVDsGuD2EILwTg5AiJVz.",
+        "email": "tomi@tomi.hu",
+        "is_admin": false,
+        "id": "695e323fce23c",
+        "_comment": "Password: Tomi123456"
+    }
+}
