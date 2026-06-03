@@ -1,0 +1,10 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,9): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'Source.cpp')
+      C:\Users\palla\Desktop\Egyetem\3.Félév\GPU programozás - Beadandó\NewProject\NewProject\glad\glad.h(32,9):
+      see previous definition of 'APIENTRY'
+  
+  cl_version.h: CL_TARGET_OPENCL_VERSION is not defined. Defaulting to 300 (OpenCL 3.0)
+C:\Users\palla\Desktop\Egyetem\3.Félév\GPU programozás - Beadandó\NewProject\NewProject\Source.cpp(355,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\palla\Desktop\Egyetem\3.Félév\GPU programozás - Beadandó\NewProject\NewProject\Source.cpp(355,61): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  NewProject.vcxproj -> C:\Users\palla\Desktop\Egyetem\3.Félév\GPU programozás - Beadandó\NewProject\x64\Debug\NewProject.exe
