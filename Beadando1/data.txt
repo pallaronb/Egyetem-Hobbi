@@ -1,0 +1,5 @@
+Tokaj,Keleti tábla R4,Olaszrizling,40%
+Sopron,Nyugati tábla B3,Kékfrankos,25%
+Veszprém,Déli tábla C3,Olaszrizling,60%
+Kiskunfélegyháza,Déli tábla B4,Irsai Olivér,80%
+Budapest,Keleti pályaudvar,Amit találsz,99%
